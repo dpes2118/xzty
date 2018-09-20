@@ -175,7 +175,8 @@ footer .bottom-footer {
     #services .all-services a:hover {
       text-decoration: none;
       background: #343a40;
-      transition: .5s linear; }
+      transition: .5s linear;
+      color: #fff; }
 
 /*common css*/
 input[type="text"]:focus, input[type="search"]:focus {
